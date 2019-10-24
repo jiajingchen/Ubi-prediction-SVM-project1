@@ -12,4 +12,4 @@ My responsibilities include:
 – Evaluated model performance with ROC analysis with highest AUC value of 0.869
 – Related Skills: Java, Python, R, PHP, mySQL, Linux, SVM, Random Forest
 – Built Front-End web server: AraUbiSite for researchers to use
-– First-authored academic paper under review
+– First-authored academic paper published in 2019: http://www.eurekaselect.com/170610/article
